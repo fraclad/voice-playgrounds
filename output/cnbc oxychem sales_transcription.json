@@ -1,0 +1,743 @@
+{
+  "segments": [
+    {
+      "id": "seg_0",
+      "end": 0.8,
+      "speaker": "A",
+      "start": 0.0,
+      "text": " Well, it's official.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_1",
+      "end": 3.95,
+      "speaker": "A",
+      "start": 0.95,
+      "text": " Berkshire Hathaway is acquiring Occidental's chemical business,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_2",
+      "end": 5.050000000000001,
+      "speaker": "A",
+      "start": 4.15,
+      "text": " OxyChem.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_3",
+      "end": 6.900000000000001,
+      "speaker": "A",
+      "start": 5.300000000000001,
+      "text": " It's an all-cash transaction.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_4",
+      "end": 9.250000000000002,
+      "speaker": "A",
+      "start": 7.250000000000001,
+      "text": " It's valued at $9.7 billion,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_5",
+      "end": 12.400000000000002,
+      "speaker": "A",
+      "start": 9.300000000000002,
+      "text": " and this is Berkshire's biggest purchase since 2022.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_6",
+      "end": 15.25,
+      "speaker": "A",
+      "start": 13.100000000000001,
+      "text": " Joining us right now is Vicki Hollis.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_7",
+      "end": 17.25,
+      "speaker": "A",
+      "start": 15.3,
+      "text": " She is Occidental Petroleum CEO.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_8",
+      "end": 19.65,
+      "speaker": "A",
+      "start": 17.45,
+      "text": " And Vicki, first of all, thanks for being here this morning.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_9",
+      "end": 20.3,
+      "speaker": "A",
+      "start": 19.7,
+      "text": " We appreciate it.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_10",
+      "end": 22.7,
+      "speaker": "B",
+      "start": 21.0,
+      "text": " Thank you. I appreciate the opportunity,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_11",
+      "end": 23.049999999999997,
+      "speaker": "B",
+      "start": 22.849999999999998,
+      "text": " Becky.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_12",
+      "end": 25.232,
+      "speaker": "A",
+      "start": 23.732,
+      "text": " Let's talk a little bit about this deal,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_13",
+      "end": 29.232,
+      "speaker": "A",
+      "start": 25.381999999999998,
+      "text": " how it came together, and $9.7 billion in cash.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_14",
+      "end": 30.432,
+      "speaker": "A",
+      "start": 29.381999999999998,
+      "text": " What do you plan to do with it?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_15",
+      "end": 37.432,
+      "speaker": "B",
+      "start": 31.732,
+      "text": " Well, with the cash, we're going to take about $6.5 billion of the cash and we're going to apply it to debt reduction.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_16",
+      "end": 46.782,
+      "speaker": "B",
+      "start": 37.782,
+      "text": " And that debt reduction amount will get us to below our target debt of $15 billion that we laid out after the Crown Rock acquisition.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_17",
+      "end": 52.182,
+      "speaker": "B",
+      "start": 47.682,
+      "text": " That then will reduce our interest payments by $350 million.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_18",
+      "end": 60.232,
+      "speaker": "B",
+      "start": 52.682,
+      "text": " And that will enable us then to start adding back parts of our value proposition that we were not able to do.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_19",
+      "end": 61.426,
+      "speaker": "B",
+      "start": 60.276,
+      "text": " do previously.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_20",
+      "end": 66.27600000000001,
+      "speaker": "B",
+      "start": 61.826,
+      "text": " So now we're going to be able to start our share repurchase program again.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_21",
+      "end": 67.34599999999999,
+      "speaker": "B",
+      "start": 66.996,
+      "text": " So that's",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_22",
+      "end": 67.59599999999999,
+      "speaker": "A",
+      "start": 67.34599999999999,
+      "text": " Okay.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_23",
+      "end": 81.54599999999999,
+      "speaker": "B",
+      "start": 67.59599999999999,
+      "text": " incredibly valuable for us. But the main reason we did this at this time is the timing was driven by the fact that the acquisition of Crown Rock enabled us to establish the Midland Basin as a core area.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_24",
+      "end": 84.496,
+      "speaker": "B",
+      "start": 81.646,
+      "text": " Once we established Midland as a core area,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_25",
+      "end": 94.596,
+      "speaker": "B",
+      "start": 84.646,
+      "text": " we were able to build a good Barnett position based on some appraisal work we've done on the Barnett previously. So to get that Barnett.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_26",
+      "end": 105.248,
+      "speaker": "B",
+      "start": 94.548,
+      "text": " position there and to also then take that Barnett knowledge and apply it to the Barnett that's underneath our conventional assets on the Central Basin platform.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_27",
+      "end": 114.94800000000001,
+      "speaker": "B",
+      "start": 105.498,
+      "text": " All of that enhanced our portfolio of oil and gas opportunities to the point where we have now decades of development opportunity in oil and gas.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_28",
+      "end": 120.348,
+      "speaker": "B",
+      "start": 115.19800000000001,
+      "text": " So we wanted to look at ways to accelerate value to our shareholders and again start that return.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_29",
+      "end": 122.808,
+      "speaker": "B",
+      "start": 120.308,
+      "text": " turn of capital back to our shareholders.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_30",
+      "end": 132.15800000000002,
+      "speaker": "B",
+      "start": 123.608,
+      "text": " Now our portfolio is the best it's ever been and we're applying our advanced technology and processes to make it even better.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_31",
+      "end": 143.65800000000002,
+      "speaker": "B",
+      "start": 132.258,
+      "text": " So really what this is doing is bringing forward value to our shareholders but also enabling us to do what we do best which ultimately creates even more value for our shareholders.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_32",
+      "end": 147.958,
+      "speaker": "A",
+      "start": 144.208,
+      "text": " Okay, let's talk a little bit through that for people who haven't been following along at home.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_33",
+      "end": 154.0,
+      "speaker": "A",
+      "start": 147.7,
+      "text": " Along at home, you had a $12 billion acquisition that you just mentioned with Crown Rock last year.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_34",
+      "end": 156.85,
+      "speaker": "A",
+      "start": 154.04999999999998,
+      "text": " That's a U.S. shale producer that you were able to build this position up.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_35",
+      "end": 166.29999999999998,
+      "speaker": "A",
+      "start": 156.89999999999998,
+      "text": " That follows a $55 billion acquisition of Anadarko, which is another Permian Basin play that you completed back in 2019.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_36",
+      "end": 168.64999999999998,
+      "speaker": "A",
+      "start": 166.5,
+      "text": " So that was a lot of debt. You've been paying it down.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_37",
+      "end": 175.1,
+      "speaker": "A",
+      "start": 168.7,
+      "text": " I believe your goal was to get to $15 billion by 2027. So you'll be getting there earlier, assuming that this deal closes.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_38",
+      "end": 180.416,
+      "speaker": "A",
+      "start": 175.316,
+      "text": " in this quarter as I think the release lays out you're anticipating it'll close in the fourth quarter.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_39",
+      "end": 187.666,
+      "speaker": "A",
+      "start": 181.666,
+      "text": " All of those plays with the Permian Basin, do you feel like shareholders have appreciated that?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_40",
+      "end": 189.216,
+      "speaker": "A",
+      "start": 187.716,
+      "text": " If we're looking at a five year stock chart,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_41",
+      "end": 192.566,
+      "speaker": "A",
+      "start": 189.366,
+      "text": " you're up 390%. But over the last year,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_42",
+      "end": 195.216,
+      "speaker": "A",
+      "start": 192.666,
+      "text": " it's been a little rougher, you're down by close to 10%.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_43",
+      "end": 198.98000000000002,
+      "speaker": "B",
+      "start": 196.18,
+      "text": " Well, I think there's one thing that definitely our shareholders know.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_44",
+      "end": 206.43,
+      "speaker": "B",
+      "start": 199.08,
+      "text": " They know that we have the best portfolio we've ever had and they know that our performance in that portfolio actually beats our competition.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_45",
+      "end": 213.73000000000002,
+      "speaker": "B",
+      "start": 207.18,
+      "text": " Third party analysis indicates that. So our shareholders are very happy with our portfolio and happy with our performance.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_46",
+      "end": 221.98000000000002,
+      "speaker": "B",
+      "start": 214.13,
+      "text": " The problem has been getting our debt down faster. So this resolves the one outstanding issue that I think will now unlock.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_47",
+      "end": 229.158,
+      "speaker": "B",
+      "start": 221.908,
+      "text": " lock our stock and allow shareholders to feel more comfortable hopefully to add to their positions and others to come in.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_48",
+      "end": 236.958,
+      "speaker": "B",
+      "start": 229.458,
+      "text": " This is the last step that we needed in our major transformation that we started 10 years ago which was to become more U.S. based.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_49",
+      "end": 244.308,
+      "speaker": "B",
+      "start": 237.658,
+      "text": " Back when I took this role in 2015 only 50% of our production was in the United States.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_50",
+      "end": 248.658,
+      "speaker": "B",
+      "start": 244.658,
+      "text": " Now 83% of our production is in the United States and the high",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_51",
+      "end": 249.504,
+      "speaker": "B",
+      "start": 248.404,
+      "text": " In the high quality areas,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_52",
+      "end": 250.704,
+      "speaker": "B",
+      "start": 249.60399999999998,
+      "text": " the Permian, the DJ,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_53",
+      "end": 253.004,
+      "speaker": "B",
+      "start": 250.85399999999998,
+      "text": " the Powder River and the Gulf of America.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_54",
+      "end": 263.004,
+      "speaker": "B",
+      "start": 254.054,
+      "text": " In addition to that, back in 2015, we had 8 billion barrels of oil equivalent in terms of oil and gas resources.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_55",
+      "end": 266.554,
+      "speaker": "B",
+      "start": 263.454,
+      "text": " Now we've increased that by 1.75 times,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_56",
+      "end": 267.954,
+      "speaker": "B",
+      "start": 266.604,
+      "text": " we have 14 billion.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_57",
+      "end": 273.354,
+      "speaker": "B",
+      "start": 268.104,
+      "text": " And I believe that by the end of the year, because of the Barnett position that we built,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_58",
+      "end": 274.604,
+      "speaker": "B",
+      "start": 273.404,
+      "text": " that was kind of under the radar.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_59",
+      "end": 301.772,
+      "speaker": "B",
+      "start": 274.772,
+      "text": " and the quality and the value that will add along with de-risking the powder river I believe that by the end of the year we'll be adding even more to that resource number so we've we've got what we need all the building blocks are there the thing that we needed to do was improve our balance sheet so this is that last big step that we need and now I think we're off and running to to value creation that's going to come at a much faster pace for our shareholders.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_60",
+      "end": 302.002,
+      "speaker": "B",
+      "start": 301.652,
+      "text": " or shareholders.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_61",
+      "end": 304.30199999999996,
+      "speaker": "C",
+      "start": 302.702,
+      "text": " Just so much has changed,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_62",
+      "end": 305.80199999999996,
+      "speaker": "C",
+      "start": 304.402,
+      "text": " Vicky, in the last,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_63",
+      "end": 308.452,
+      "speaker": "C",
+      "start": 305.852,
+      "text": " I guess it's five, I don't know, time goes so fast,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_64",
+      "end": 309.602,
+      "speaker": "C",
+      "start": 308.502,
+      "text": " maybe it's five, ten years.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_65",
+      "end": 311.202,
+      "speaker": "C",
+      "start": 309.80199999999996,
+      "text": " Remember when the majors,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_66",
+      "end": 319.952,
+      "speaker": "C",
+      "start": 311.452,
+      "text": " it was all about returning cash to shareholders because there was no future in any of this? And what you're saying is like music to my ears, it just,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_67",
+      "end": 329.30199999999996,
+      "speaker": "C",
+      "start": 320.002,
+      "text": " it really is in terms of, so almost twice as much barrel equivalents you've developed in recent years.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_68",
+      "end": 331.434,
+      "speaker": "C",
+      "start": 329.684,
+      "text": " So when is peak oil?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_69",
+      "end": 341.48400000000004,
+      "speaker": "C",
+      "start": 331.73400000000004,
+      "text": " Is the Malthusian bet that it was supposed to be, I think, 15 years ago? I think people were talking about 2010 being peak oil.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_70",
+      "end": 343.834,
+      "speaker": "C",
+      "start": 341.634,
+      "text": " Do you have any feel for that?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_71",
+      "end": 350.48400000000004,
+      "speaker": "C",
+      "start": 344.334,
+      "text": " And the transition will definitely, I guess, have to be made at some point, but it keeps getting pushed out.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_72",
+      "end": 352.23400000000004,
+      "speaker": "C",
+      "start": 350.584,
+      "text": " What's the future of the industry?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_73",
+      "end": 357.99399999999997,
+      "speaker": "B",
+      "start": 353.044,
+      "text": " Yeah, that's a great question because what's happened in the United States is phenomenal.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_74",
+      "end": 359.94399999999996,
+      "speaker": "B",
+      "start": 358.294,
+      "text": " We have,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_75",
+      "end": 364.44399999999996,
+      "speaker": "B",
+      "start": 360.094,
+      "text": " there are 10 other countries that have more oil and gas resources than,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_76",
+      "end": 366.69399999999996,
+      "speaker": "B",
+      "start": 364.544,
+      "text": " or at least oil resources than we do.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_77",
+      "end": 374.044,
+      "speaker": "B",
+      "start": 366.844,
+      "text": " Yet we're the largest producer in the world at 13.5 million barrels a day. And the reason for that is our shale development.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_78",
+      "end": 379.144,
+      "speaker": "B",
+      "start": 374.44399999999996,
+      "text": " And it's very interesting that back in 2010, when the development of...",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_79",
+      "end": 388.07000000000005,
+      "speaker": "B",
+      "start": 379.22,
+      "text": " of getting oil out of shale and shale is basically it's the source rock for oil it's where the the organic matter decayed and over",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_80",
+      "end": 388.22,
+      "speaker": "C",
+      "start": 388.07000000000005,
+      "text": " Yep.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_81",
+      "end": 405.82000000000005,
+      "speaker": "B",
+      "start": 388.22,
+      "text": " time with pressure and all that turned into hydrocarbons so we had drilled through the source rock for years and never thought we could get oil out of it until Mitchell figured out how to get gas out of the Barnett field near Fort Worth so",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_82",
+      "end": 407.90999999999997,
+      "speaker": "B",
+      "start": 406.26,
+      "text": " So we in 2010,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_83",
+      "end": 411.56,
+      "speaker": "B",
+      "start": 408.11,
+      "text": " the independents in the U.S., independent companies,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_84",
+      "end": 412.21,
+      "speaker": "B",
+      "start": 411.61,
+      "text": " not the majors,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_85",
+      "end": 413.76,
+      "speaker": "B",
+      "start": 412.26,
+      "text": " the majors had gone international.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_86",
+      "end": 423.90999999999997,
+      "speaker": "B",
+      "start": 413.81,
+      "text": " They were searching for oil around the world. They weren't focused on the U.S., but there were some independent companies here in the U.S. that actually developed,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_87",
+      "end": 434.26,
+      "speaker": "B",
+      "start": 424.06,
+      "text": " took that template that Mitchell developed and advanced it to the point where we were able to get our production from five million barrels a day.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_88",
+      "end": 460.228,
+      "speaker": "B",
+      "start": 434.228,
+      "text": " of conventional production in 2010 now to 13 and a half million barrels a day and so the majors left the independents developed it and it's been phenomenal and there's this kind of development in a source rock has not been done anywhere else at this scale in the world and so it's it's really a determination by our industry to to get more oil out of all the sources that we have and we",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_89",
+      "end": 466.004,
+      "speaker": "B",
+      "start": 460.404,
+      "text": " We believe we have about one and a half trillion barrels of oil in place in the ground,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_90",
+      "end": 467.504,
+      "speaker": "B",
+      "start": 466.054,
+      "text": " and we just got to get more of it out.",
+      "type": "transcript.text.segment"
+    }
+  ],
+  "text": "Well, it's official. Berkshire Hathaway is acquiring Occidental's chemical business, OxyChem. It's an all-cash transaction. It's valued at $9.7 billion, and this is Berkshire's biggest purchase since 2022. Joining us right now is Vicki Hollis. She is Occidental Petroleum CEO. And Vicki, first of all, thanks for being here this morning. We appreciate it. Thank you. I appreciate the opportunity, Becky.\nLet's talk a little bit about this deal, how it came together, and $9 .7 billion in cash. What do you plan to do with it?\nWell, with the cash, we're going to take about $6.5 billion of the cash and we're going to apply it to debt reduction. And that debt reduction amount will get us to below our target debt of $15 billion that we laid out after the Crown Rock acquisition. That then will reduce our interest payments by $350 million. And that will enable us then to start adding back parts of our value proposition that we were not able to do.\ndo previously. So now we're going to be able to start our share repurchase program again.\nSo that's Okay. incredibly valuable for us. But the main reason we did this at this time is the timing was driven by the fact that the acquisition of Crown Rock enabled us to establish the Midland Basin as a core area. Once we established Midland as a core area, we were able to build a good Barnett position based on some appraisal work we've done on the Barnett previously. So to get that Barnett.\nposition there and to also then take that Barnett knowledge and apply it to the Barnett that's underneath our conventional assets on the Central Basin platform. All of that enhanced our portfolio of oil and gas opportunities to the point where we have now decades of development opportunity in oil and gas. So we wanted to look at ways to accelerate value to our shareholders and again start that return.\nturn of capital back to our shareholders. Now our portfolio is the best it's ever been and we're applying our advanced technology and processes to make it even better. So really what this is doing is bringing forward value to our shareholders but also enabling us to do what we do best which ultimately creates even more value for our shareholders. Okay, let's talk a little bit through that for people who haven't been following along at home.\nAlong at home, you had a $12 billion acquisition that you just mentioned with Crown Rock last year. That's a U.S. shale producer that you were able to build this position up. That follows a $55 billion acquisition of Anadarko, which is another Permian Basin play that you completed back in 2019. So that was a lot of debt. You've been paying it down. I believe your goal was to get to $15 billion by 2027. So you'll be getting there earlier, assuming that this deal closes.\nin this quarter as I think the release lays out you're anticipating it'll close in the fourth quarter. All of those plays with the Permian Basin, do you feel like shareholders have appreciated that? If we're looking at a five year stock chart, you're up 390%. But over the last year, it's been a little rougher, you're down by close to 10%.\nWell, I think there's one thing that definitely our shareholders know. They know that we have the best portfolio we've ever had and they know that our performance in that portfolio actually beats our competition. Third party analysis indicates that. So our shareholders are very happy with our portfolio and happy with our performance. The problem has been getting our debt down faster. So this resolves the one outstanding issue that I think will now unlock.\nlock our stock and allow shareholders to feel more comfortable hopefully to add to their positions and others to come in. This is the last step that we needed in our major transformation that we started 10 years ago which was to become more U .S. based. Back when I took this role in 2015 only 50 % of our production was in the United States. Now 83% of our production is in the United States and the high\nIn the high quality areas, the Permian, the DJ, the Powder River and the Gulf of America. In addition to that, back in 2015, we had 8 billion barrels of oil equivalent in terms of oil and gas resources. Now we've increased that by 1.75 times, we have 14 billion. And I believe that by the end of the year, because of the Barnett position that we built, that was kind of under the radar.\nand the quality and the value that will add along with de-risking the powder river I believe that by the end of the year we'll be adding even more to that resource number so we've we've got what we need all the building blocks are there the thing that we needed to do was improve our balance sheet so this is that last big step that we need and now I think we're off and running to to value creation that's going to come at a much faster pace for our shareholders.\nor shareholders. Just so much has changed, Vicky, in the last, I guess it's five, I don't know, time goes so fast, maybe it's five, ten years. Remember when the majors, it was all about returning cash to shareholders because there was no future in any of this? And what you're saying is like music to my ears, it just, it really is in terms of, so almost twice as much barrel equivalents you've developed in recent years.\nSo when is peak oil? Is the Malthusian bet that it was supposed to be, I think, 15 years ago? I think people were talking about 2010 being peak oil. Do you have any feel for that? And the transition will definitely, I guess, have to be made at some point, but it keeps getting pushed out. What's the future of the industry?\nYeah, that's a great question because what's happened in the United States is phenomenal. We have, there are 10 other countries that have more oil and gas resources than, or at least oil resources than we do. Yet we're the largest producer in the world at 13.5 million barrels a day. And the reason for that is our shale development. And it's very interesting that back in 2010, when the development of...\nof getting oil out of shale and shale is basically it's the source rock for oil it's where the the organic matter decayed and over Yep. time with pressure and all that turned into hydrocarbons so we had drilled through the source rock for years and never thought we could get oil out of it until Mitchell figured out how to get gas out of the Barnett field near Fort Worth so\nSo we in 2010, the independents in the U.S., independent companies, not the majors, the majors had gone international. They were searching for oil around the world. They weren't focused on the U.S., but there were some independent companies here in the U.S. that actually developed, took that template that Mitchell developed and advanced it to the point where we were able to get our production from five million barrels a day.\nof conventional production in 2010 now to 13 and a half million barrels a day and so the majors left the independents developed it and it's been phenomenal and there's this kind of development in a source rock has not been done anywhere else at this scale in the world and so it's it's really a determination by our industry to to get more oil out of all the sources that we have and we\nWe believe we have about one and a half trillion barrels of oil in place in the ground, and we just got to get more of it out.",
+  "usage": {
+    "input_tokens": 7496,
+    "output_tokens": 14080,
+    "total_tokens": 21576,
+    "type": "tokens",
+    "input_token_details": {
+      "audio_tokens": 6949,
+      "text_tokens": 547
+    }
+  }
+}
